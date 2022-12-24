@@ -8,10 +8,7 @@
 </p>
 
 <h2 align="center">Hello there! My name is Stephen Ajulu. 👋🤓</h2>
-<p align="center">I'm a Front End Web Developer, Graphic Designer, Content Creator and Junior Cybersecurity Consultant/Analyst from Kenya.
-I'm also currently doing my Bsc in IT while working on my company and other projects.
-I currently passionate about JAMstack, Progressive Web Apps, Headless CMS, Nocode(the irony), Sustainability, Neural Nets, Hugo, S.E.O, Web Performance, Blogging/Vlogging/"Podgging"/Logging and Automation.
-When I'm not developing and building things, you can find me on Youtube learning, writing an article, watching anime, daydreaming actionpacked dreams where i am the MC or on my laptop gaming. But most of my days are spent working on projects while listening to LoFi(my own and my clients), Studying or watching anime</p>
+<p align="center">I have graduated in Computer Science and Engineering from BGC Trust University. I’m very interested in beginning a career in the web development field. In past, I have worked on many projects, some of which details are given in my resume. I built those projects on both as a front-end developer as well as a backend developer. I am currently looking to apply my knowledge and skills in an organization of repute.</p>
 
 <h3 align="center"> Interested in Collaborating or Donating/Sponsering My Projects? Click <a href="https://github.com/stephenajulu/stephenajulu/blob/master/PROJECTS.md">here</a> </h3>
 
